@@ -1,11 +1,11 @@
 # Inventory Management System 
 
-####  This is an inventory management system written in Java and JavaFX
+####  Inventory management system written in Java and JavaFX
 
-This an Inventory management project that is written in an Object Oriented approach and applies the MVC design pattern for organizing the code. 
+This is an Inventory management project that is written in an Object Oriented approach and applies the MVC design pattern for organizing the code. 
 
 #### List of functionalities include but not limited to
-*  Add of Parts and Products
+* Add of Parts and Products
 * Modification of Parts and Products
 * Deletion of Parts and Products
 * Association of Parts to Products
